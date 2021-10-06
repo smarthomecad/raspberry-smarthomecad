@@ -1,0 +1,30 @@
+{
+  "name": "shdoor-raspberry",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "aplay": "^1.1.0",
+    "axios": "^0.18.1",
+    "body-parser": "^1.19.0",
+    "compass-hmc5883l": "^1.0.3",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "^4.17.1",
+    "fcm-node": "^1.5.2",
+    "gpio": "^0.2.10",
+    "https": "^1.0.0",
+    "i2c-bus": "^5.2.0",
+    "i2c-mpu6050": "^2.3.0",
+    "jade": "~1.11.0",
+    "md5": "^2.2.1",
+    "morgan": "^1.9.1",
+    "node-onvif": "^0.1.4",
+    "node-telegram-bot-api": "^0.30.0",
+    "pi-camera": "^1.0.1",
+    "pi-temperature": "^2.1.0",
+    "serve-favicon": "~2.4.2"
+  }
+}
