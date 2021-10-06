@@ -16,7 +16,7 @@ npm i
 npm start
 ```
 
-don't forget to add you custom keys (fcm, telegram_api and chat_id)
+don't forget to add your custom keys (fcm, telegram_api and chat_id)
 
 ## please support our project
 
