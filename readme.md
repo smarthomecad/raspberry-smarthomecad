@@ -20,4 +20,12 @@ don't forget to add your custom keys (fcm, telegram_api and chat_id)
 
 ## please support our project
 
-contact us: smarthomecad at gmail.com
+contact us: 
+===========
+LAKAT LTD
+
+63-66 Hatton Garden, London, England, EC1N 8LE
+
+https://www.lacat.online/
+
+lakatcompanyltd@gmail.com
